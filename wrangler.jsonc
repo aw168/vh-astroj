@@ -1,0 +1,15 @@
+{
+  "name": "vh-astroj",
+  "compatibility_date": "2023-11-30",
+  "assets": {
+    "directory": "./dist"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "vh-astro-d1",
+      "database_id": "b87f671a-6ba1-415e-b040-2ecb9ae27b52",
+      "migrations_dir": "./migrations"
+    }
+  ]
+}
